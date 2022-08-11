@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package JavaApplication2;
+package Ventana;
 
 import K_means.K_means;
 import java.awt.Color;

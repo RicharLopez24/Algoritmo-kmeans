@@ -3,15 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaapplication23;
+package MAIN;
 
-import JavaApplication2.Ventana;
+import Ventana.Ventana;
 
 /**
  *
  * @author carol
  */
-public class JavaApplication23 {
+public class Main {
 
     /**
      * @param args the command line arguments
